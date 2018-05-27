@@ -12,6 +12,8 @@ Identify busy buckets, track cache miss ratios, and more. This Agent check colle
 
 And many more.
 
+![Couchbase Bytes Read](https://raw.githubusercontent.com/DataDog/integrations-core/5f2e05610c38400bfe3141c9d06de4c346f01b0f/couchbase/images/snapshot.png)
+
 ## Setup
 
 ### Installation
